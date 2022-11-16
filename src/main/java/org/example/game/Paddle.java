@@ -1,4 +1,4 @@
-package org.example;
+package org.example.game;
 
 import java.awt.*;
 import java.awt.event.*;

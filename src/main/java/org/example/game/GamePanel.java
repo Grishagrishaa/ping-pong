@@ -1,5 +1,7 @@
-package org.example;
+package org.example.game;
 
+
+import org.example.stats.StatsFrame;
 
 import java.awt.*;
 import java.awt.event.*;
