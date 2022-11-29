@@ -1,7 +1,7 @@
 package org.example.game;
 
 import java.awt.*;
-import java.util.*;
+import java.util.Random;
 
 public class Ball extends Rectangle{
 

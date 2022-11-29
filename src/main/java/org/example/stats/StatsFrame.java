@@ -8,7 +8,7 @@ public class StatsFrame extends JFrame{
 	FormBtnPanel panelButtons;
 	StatsPanel panelStats;
 
-	StatsFrame(String winner){
+	public StatsFrame(String winner){
 
 		panelButtons = new FormBtnPanel();
 		panelStats = new StatsPanel(String.format("The winner is - %s", winner));

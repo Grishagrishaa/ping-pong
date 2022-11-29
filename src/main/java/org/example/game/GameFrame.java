@@ -1,13 +1,13 @@
 package org.example.game;
 
-import java.awt.*;
 import javax.swing.*;
+import java.awt.*;
 
 public class GameFrame extends JFrame{
 
 	GamePanel panel;
 	
-	GameFrame(){
+	public GameFrame(){
 		panel = new GamePanel();
 		this.add(panel);
 		this.setTitle("Pong Game");
